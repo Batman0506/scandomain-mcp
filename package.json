@@ -4,7 +4,7 @@
   "description": "MCP server for SCANDOMAIN asset search.",
   "type": "module",
   "bin": {
-    "scandomain-mcp": "./src/index.js"
+    "scandomain-mcp": "src/index.js"
   },
   "files": [
     "src",
