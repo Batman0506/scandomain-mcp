@@ -22,7 +22,7 @@ client such as OpenClaw, Hermes, Cursor, or another stdio MCP client:
   "mcpServers": {
     "scandomain": {
       "command": "npx",
-      "args": ["-y", "scandomain-mcp"],
+      "args": ["-y", "github:Batman0506/scandomain-mcp"],
       "env": {
         "SCANDOMAIN_API_TOKEN": "your-api-key",
         "SCANDOMAIN_API_BASE_URL": "https://api.scandomain.cyayaa.com"
